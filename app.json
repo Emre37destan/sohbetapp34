@@ -1,0 +1,11 @@
+{
+  "name": "Sohbet App Server",
+  "description": "Sohbet Uygulaması",
+  "keywords": [
+  "node",
+  "express",
+  "static"
+  ],
+  "repository": "https://github.com/Emre37destan/server",
+  "logo": "https://mog-cdn.fra1.digitaloceanspaces.com/team/5ec686906bd37a59ea2d920d.jpg",
+}
